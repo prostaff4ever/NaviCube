@@ -1,0 +1,18 @@
+
+# Dipole Field Analysis with Noise and FFT
+
+This notebook-style code explores how spatial frequency representations are affected by:
+- Dipole sources
+- Baseline fields
+- Gaussian noise
+- 1/f (pink) noise
+- Sampling resolution (aliasing)
+- Frequency-domain filtering
+
+It includes:
+- Function definitions for dipole generation and 1/f noise
+- Multiple field construction scenarios
+- Clean vs noisy vs aliased FFT comparison
+- Tools to visualize vector fields and frequency content
+
+You can use the provided functions in a Jupyter notebook for live inspection and visualization of each step.
